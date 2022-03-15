@@ -29,5 +29,5 @@ result = test_setup()
 test_login(result)
 test_teardown()
 
-print("******** Test Completed Successfully *********")
+print("******** Test Completed Successfully :)*********")
 
