@@ -23,10 +23,7 @@ def test_login(test_setup):
     driver.implicitly_wait(2)
     titleName = driver.title
     print(titleName)
-
-def test_teardown():
-    driver.close()
-    driver.quit()     
+  
     
 
 #Trying to push into github try-2
